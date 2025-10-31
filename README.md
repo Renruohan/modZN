@@ -25,7 +25,7 @@ The **modZN** program automates the design of these overlapping sequences and pr
 
 
 ![workflow](https://github.com/Renruohan/modZN/blob/main/workflow.png)
-The Workflow of modAssembly. (A) The schematic workflow of three-fragment modAssembly, including fragment amplification using modified primers (step I), lambda exonuclease digestion (step II) and fragment hybridization (step III). The asterisks denote the phosphorothioate modifications. The green, blue and orange segments denote the overlapping segments of F3/F1, F1/F2 and F2/F3, respectively. (B) The primer design of modZN. The process includes the search of overlapping segments with specific ΔG requirement (step 1) and the generation of full-length primer sequences with phosphorothioate modifications (step 2).
+The **Workflow** of modAssembly. (A) The schematic workflow of three-fragment **modAssembly**, including fragment amplification using modified primers (step I), lambda exonuclease digestion (step II) and fragment hybridization (step III). The asterisks denote the phosphorothioate modifications. The green, blue and orange segments denote the overlapping segments of F3/F1, F1/F2 and F2/F3, respectively. (B) The primer design of **modZN**. The process includes the search of overlapping segments with specific ΔG requirement (step 1) and the generation of full-length primer sequences with phosphorothioate modifications (step 2).
 
 ---
 
@@ -57,6 +57,6 @@ There are two independent GUI tools provided:
 
 ## ▶️ Usage
 
-python modzn_circular.py
+- Python modzn_circular.py
 
 
