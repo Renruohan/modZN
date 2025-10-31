@@ -59,4 +59,11 @@ There are two independent GUI tools provided:
 
 - Python modzn_circular.py
 
+## 📘 User Manual
+
+For detailed usage instructions, parameter explanations, and example workflows, please refer to the **User Manual** provided in:
+
+> 📄 **`modZN_User_Manual.pdf`**
+
+
 
