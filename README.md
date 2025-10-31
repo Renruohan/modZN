@@ -56,8 +56,12 @@ There are two independent GUI tools provided:
 ---
 
 ## 💻 Usage
+Since we use IDT for primer design calculations, please first register an IDT account and enter it in **./modZN/IDT_account.txt**.
+Then, simply run the following command.
 
-- Python modzn_circular.py
+- Python GUI_for_modZN.py
+
+[You can adjust parameters such as **length_of_search_frame** (the length of the search window for finding suitable overlap regions) and **t** (the threshold for the ΔG difference) in **modZN_circular_add_IDT_TM.py** or ***modZN_linear_add_IDT_TM.py** if you need.]
 
 ## 📘 User Manual
 
