@@ -9,6 +9,7 @@ In the paper, **modAssembly** is a novel DNA assembly method that uses **phospho
 **modZN** is the computational counterpart — an automated primer and overlap sequence designer ensuring all sticky ends have comparable hybridization free energies (ΔG), thereby maximizing one-pot assembly efficiency.
 
 This repository provides the **GUI-based Python tool** that implements modZN, with versions for both **circular** and **linear** DNA assemblies. If you would like to use modZN more conveniently, the web page tool can be accessed at http://8.130.46.70/#/seq.
+
 ---
 
 ## 🧬 Background
