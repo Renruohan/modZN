@@ -55,7 +55,7 @@ There are two independent GUI tools provided:
 
 ---
 
-## ▶️ Usage
+## 💻 Usage
 
 - Python modzn_circular.py
 
