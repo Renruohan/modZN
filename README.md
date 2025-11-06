@@ -56,7 +56,7 @@ There are two independent GUI tools provided:
 ---
 
 ## 💻 Usage
-Since we use IDT for primer design calculations, please first register an IDT account and enter it in **IDT_account.txt**.
+Since we use IDT website for primer design calculations, please first register an IDT account (https://www.idtdna.com/) and enter the username and password in **IDT_account.txt**.
 Then, simply run the following command.
 
 - python GUI_for_modZN.py
