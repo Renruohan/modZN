@@ -1,0 +1,2 @@
+primer3-py==2.4.0
+FreeSimpleGUI==5.3.0.post1
